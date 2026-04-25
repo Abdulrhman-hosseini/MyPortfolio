@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MyPortfolio/static/css/main.2c653284.css",
-    "main.js": "/MyPortfolio/static/js/main.21fcccf8.js",
+    "main.js": "/MyPortfolio/static/js/main.e4e2e8ba.js",
     "static/js/453.5c6ddc6a.chunk.js": "/MyPortfolio/static/js/453.5c6ddc6a.chunk.js",
     "static/media/63_human_verify.jpg": "/MyPortfolio/static/media/63_human_verify.e977ea55b7dba66928dd.jpg",
     "static/media/WhatsApp Image 2025-05-16 at 14.00.56_10f3a4cf.jpg": "/MyPortfolio/static/media/WhatsApp Image 2025-05-16 at 14.00.56_10f3a4cf.15ab2fc60990aa836868.jpg",
@@ -17,11 +17,11 @@
     "static/media/HTML5_logo_and_wordmark.svg": "/MyPortfolio/static/media/HTML5_logo_and_wordmark.aff8a9cb398fc75e4f21dab1ba1e097e.svg",
     "static/media/React-icon.svg": "/MyPortfolio/static/media/React-icon.928f956d9c8ebcffb98a8e917154a81a.svg",
     "main.2c653284.css.map": "/MyPortfolio/static/css/main.2c653284.css.map",
-    "main.21fcccf8.js.map": "/MyPortfolio/static/js/main.21fcccf8.js.map",
+    "main.e4e2e8ba.js.map": "/MyPortfolio/static/js/main.e4e2e8ba.js.map",
     "453.5c6ddc6a.chunk.js.map": "/MyPortfolio/static/js/453.5c6ddc6a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c653284.css",
-    "static/js/main.21fcccf8.js"
+    "static/js/main.e4e2e8ba.js"
   ]
 }
