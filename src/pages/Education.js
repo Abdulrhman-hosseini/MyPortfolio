@@ -6,8 +6,8 @@ const educationData = [
   {
     icon: "🎓",
     title: "Bachelor's in Computer Science",
-    institution: "Cairo University",
-    year: "2020 – 2024",
+    institution: "Arab Open University",
+    year: "2023 – 2027",
     description:
       "Studied CS fundamentals, web development, algorithms, and software testing techniques.",
     color: "#3b82f6",
@@ -15,8 +15,8 @@ const educationData = [
   {
     icon: "⚛️",
     title: "Frontend Development",
-    institution: "Udemy",
-    year: "2023",
+    institution: "MEC Academy",
+    year: "2024",
     description:
       "Mastered React.js, Bootstrap, Tailwind CSS, and modern JavaScript best practices.",
     color: "#06b6d4",
@@ -24,8 +24,8 @@ const educationData = [
   {
     icon: "🧪",
     title: "ISTQB Foundation",
-    institution: "Certified",
-    year: "2024",
+    institution: "DEPI",
+    year: "2025",
     description:
       "Gained solid knowledge of manual testing, test case design, bug reporting, and Selenium basics.",
     color: "#8b5cf6",
