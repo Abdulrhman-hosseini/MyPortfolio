@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { Container, Row, Col, Button, Image } from "react-bootstrap";
 import { Typewriter } from "react-simple-typewriter";
 import profilePic from "../assests/WhatsApp Image 2025-05-16 at 14.00.56_10f3a4cf.jpg";
-import myCV from "../assests/abdulrhman_husseini_cv 3.pdf";
+import myCV from "../assests/my resume .pdf";
 
 const roles = [
   "Frontend Developer",
