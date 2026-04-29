@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/MyPortfolio/static/css/main.2c653284.css",
-    "main.js": "/MyPortfolio/static/js/main.7f0f010d.js",
+    "main.js": "/MyPortfolio/static/js/main.fd804773.js",
     "static/js/453.5c6ddc6a.chunk.js": "/MyPortfolio/static/js/453.5c6ddc6a.chunk.js",
     "static/media/63_human_verify.jpg": "/MyPortfolio/static/media/63_human_verify.e977ea55b7dba66928dd.jpg",
     "static/media/WhatsApp Image 2025-05-16 at 14.00.56_10f3a4cf.jpg": "/MyPortfolio/static/media/WhatsApp Image 2025-05-16 at 14.00.56_10f3a4cf.15ab2fc60990aa836868.jpg",
-    "static/media/abdulrhman_husseini_cv 3.pdf": "/MyPortfolio/static/media/abdulrhman_husseini_cv 3.e17dc9ead5ef9cefd2e1.pdf",
     "static/media/Selenium_Logo.png": "/MyPortfolio/static/media/Selenium_Logo.8acd00a91ebc15e2633e.png",
+    "static/media/my resume .pdf": "/MyPortfolio/static/media/my resume .5d03f87ba70e53d3da3c.pdf",
     "static/media/1048960.png": "/MyPortfolio/static/media/1048960.1f71ee9e8397f241cf33.png",
     "static/media/1159633.png": "/MyPortfolio/static/media/1159633.0f46e2728eb984e21ce8.png",
     "static/media/JavaScript-logo.png": "/MyPortfolio/static/media/JavaScript-logo.266bd9fb2663dcc057b4.png",
@@ -17,11 +17,11 @@
     "static/media/HTML5_logo_and_wordmark.svg": "/MyPortfolio/static/media/HTML5_logo_and_wordmark.aff8a9cb398fc75e4f21dab1ba1e097e.svg",
     "static/media/React-icon.svg": "/MyPortfolio/static/media/React-icon.928f956d9c8ebcffb98a8e917154a81a.svg",
     "main.2c653284.css.map": "/MyPortfolio/static/css/main.2c653284.css.map",
-    "main.7f0f010d.js.map": "/MyPortfolio/static/js/main.7f0f010d.js.map",
+    "main.fd804773.js.map": "/MyPortfolio/static/js/main.fd804773.js.map",
     "453.5c6ddc6a.chunk.js.map": "/MyPortfolio/static/js/453.5c6ddc6a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c653284.css",
-    "static/js/main.7f0f010d.js"
+    "static/js/main.fd804773.js"
   ]
 }
